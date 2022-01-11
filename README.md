@@ -21,7 +21,7 @@ The submitted information is stored in a simple Oracle database.
 
 ## Demo
 
-<p><img src="https://github.com/PrinceDuru/JavaCRUDApp/blob/master/Demo3.gif" width="500" height="320" /></p>
+<p><img src="https://github.com/PrinceDuru/JavaCRUDApp/blob/master/Demo3.gif" width="800" height="500" /></p>
 
 
 ## Run Locally
