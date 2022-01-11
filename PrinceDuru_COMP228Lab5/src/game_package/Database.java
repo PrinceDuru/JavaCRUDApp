@@ -13,9 +13,9 @@ public class Database {
         
         // Set database parameters as constant parameters
         private static final String DB_DRIVER = "oracle.jdbc.driver.OracleDriver";
-        private static final String DB_CONNECTION = "jdbc:oracle:thin:@199.212.26.208:SQLD";
-        private static final String DB_USER = "COMP122M21_002_P_14";
-        private static final String DB_PASSWORD = "password";
+        private static final String DB_CONNECTION = "jdbc:oracle:thin:@hostname:SQLD";
+        private static final String DB_USER = "db_user";
+        private static final String DB_PASSWORD = " ";
         
         private Database() {
                 
