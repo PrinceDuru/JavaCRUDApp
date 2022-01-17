@@ -1,9 +1,8 @@
 
 # Java CRUD Application
 
-This is a GUI Java application that allows games players to submit information about themselves and the games they are playing online. 
-
-The submitted information is stored in a simple Oracle database.
+This is a console GUI Java application that allows games players to submit information about themselves and the games they are playing online. 
+The submitted information is stored in a simple Oracle database. Users are able to make changes to their stored information and have the changes updated in the database. Users are also able to diplay the report of their information on the console as contained in the database.
 
 
 ## Features
